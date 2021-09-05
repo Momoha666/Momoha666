@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Moha
+- 👀 I’m interested in Game Dev,Software Dev,OS Dev,Football.
+- 🌱 I’m currently learning Python
